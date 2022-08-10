@@ -1,0 +1,9 @@
+selenium
+requests
+you_get
+lxml
+bs4
+removebg
+imageio
+numpy
+Pillow
