@@ -7,3 +7,4 @@ removebg
 imageio
 numpy
 Pillow
+playlist
