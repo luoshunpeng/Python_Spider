@@ -55,7 +55,7 @@ if __name__ == '__main__':
     urls = [_url.format(page=page) for page in range(1, 4328 + 1)]
 
     queue = Queue()
-    path = './表情包'
+    path = './表情包/'
 
     # 创建线程
     for x in range(10):
