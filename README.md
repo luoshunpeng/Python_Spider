@@ -7,7 +7,7 @@ https://github.com/luoshunpeng/Python_Spider
 ```
 pip3 install -r requirement.txt
 ```
-### 的removebg模块需要激活
+### removebg模块需要激活
 ### 站在下方, 自行登录, 点击Get API Key得到激活码
 https://www.remove.bg/zh/api#remove-background
 
