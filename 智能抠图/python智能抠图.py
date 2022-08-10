@@ -2,9 +2,9 @@ from removebg import RemoveBg as Rem
 import os
 
 """登录网址:https://www.remove.bg/zh/api#remove-background, 获取激活码."""
-#       ’激          活         码‘, '附 属 文 件'
-r = Rem('mia4HTGgMQkpnkXx1WytY6Uc', 'error.log')
-p = './图片'  # 图片文件夹的路径
+#       '激          活         码', '附 属 文 件'
+r = Rem('          自行获取        ', 'error.log')
+p = './图片'  # 需要抠图的图片文件夹的路径
 file = os.listdir(path=p)
 print('正在抠图......'+'\n'+'......')
 for i in file:  # 将图片遍历一遍
