@@ -8,3 +8,7 @@ imageio
 numpy
 Pillow
 playlist
+pyquery
+retrying
+MyQR
+Crypto
