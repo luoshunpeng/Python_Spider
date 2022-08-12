@@ -12,3 +12,4 @@ pyquery
 retrying
 MyQR
 Crypto
+fake_useragent
