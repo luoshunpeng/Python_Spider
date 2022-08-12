@@ -42,3 +42,4 @@ turtle.backward(n * 4.8)
 tree(15, n)
 turtle.backward(n / 5)
 turtle.done()  # 完成,否则会直接关闭
+
