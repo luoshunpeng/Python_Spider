@@ -584,3 +584,4 @@ pendown()
 # 绘制图片 Pic
 write("Merry Christmas", align="center", font=("Comic Sans MS", 24, "bold"))
 done()
+
