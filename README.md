@@ -26,6 +26,3 @@ https://www.remove.bg/zh/api#remove-background
 * ### [豆瓣电影信息爬取](https://github.com/luoshunpeng/Python_Spider/tree/main/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%E4%BF%A1%E6%81%AF%E7%88%AC%E5%8F%96)
 * ### [王者荣耀信息爬取](https://github.com/luoshunpeng/Python_Spider/blob/main/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8B%B1%E9%9B%84%E4%BF%A1%E6%81%AF%E7%88%AC%E5%8F%96.py)
 
-# 尾声
-## [关于作者：](https://github.com/luoshunpeng)
-### python案例每周最少两篇，会在发放在[GitHub](https://github.com/luoshunpeng)
